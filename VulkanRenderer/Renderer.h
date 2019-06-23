@@ -1,9 +1,5 @@
 #pragma once
-
 #include "singletons.h"
-
-#define GLFW_INCLUDE_VULKAN
-#include <GLFW/glfw3.h>
 #include "basetypes.h"
 #include <vulkan\vulkan.h>
 struct LayerProperties 

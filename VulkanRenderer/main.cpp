@@ -1,4 +1,7 @@
 #include "Renderer.h"
+
+#include <GLFW/glfw3.h>
+
 #pragma comment(lib, "glfw3.lib")
 
 GLFWwindow* window;
