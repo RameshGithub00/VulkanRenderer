@@ -1,0 +1,9 @@
+﻿  Renderer.cpp
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(47): warning C4101: 'result': unreferenced local variable
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(123): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(125): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(168): warning C4018: '<': signed/unsigned mismatch
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(194): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+f:\projects\vulkanrenderer\vulkanrenderer\renderer.cpp(197): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  VulkanRenderer.vcxproj -> F:\Projects\VulkanRenderer\x64\Debug\VulkanRenderer.exe
+  VulkanRenderer.vcxproj -> F:\Projects\VulkanRenderer\x64\Debug\VulkanRenderer.pdb (Full PDB)
